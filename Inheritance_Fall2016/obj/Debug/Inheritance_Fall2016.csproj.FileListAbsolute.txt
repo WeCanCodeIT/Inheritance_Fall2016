@@ -1,0 +1,6 @@
+c:\users\jarry\documents\visual studio 2015\Projects\Inheritance_Fall2016\Inheritance_Fall2016\bin\Debug\Inheritance_Fall2016.exe.config
+c:\users\jarry\documents\visual studio 2015\Projects\Inheritance_Fall2016\Inheritance_Fall2016\bin\Debug\Inheritance_Fall2016.exe
+c:\users\jarry\documents\visual studio 2015\Projects\Inheritance_Fall2016\Inheritance_Fall2016\bin\Debug\Inheritance_Fall2016.pdb
+c:\users\jarry\documents\visual studio 2015\Projects\Inheritance_Fall2016\Inheritance_Fall2016\obj\Debug\Inheritance_Fall2016.csprojResolveAssemblyReference.cache
+c:\users\jarry\documents\visual studio 2015\Projects\Inheritance_Fall2016\Inheritance_Fall2016\obj\Debug\Inheritance_Fall2016.exe
+c:\users\jarry\documents\visual studio 2015\Projects\Inheritance_Fall2016\Inheritance_Fall2016\obj\Debug\Inheritance_Fall2016.pdb
