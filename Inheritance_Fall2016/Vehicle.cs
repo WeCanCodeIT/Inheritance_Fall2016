@@ -11,6 +11,8 @@ namespace Inheritance_Fall2016
         private int numberOfWheels;
         private int numberOfSeats;
 
+        protected double hornVolume;
+
         public int Wheels
         {
             get { return this.numberOfWheels; }
@@ -23,7 +25,12 @@ namespace Inheritance_Fall2016
             set { numberOfSeats = value; }
         }
 
-        protected double hornVolume;
+
+
+        public virtual void Display()
+        {
+            Console.WriteLine("Seats: {0}, Wheels: {1}, Horn Volume: {2}", Seats, Wheels, hornVolume);
+        }
 
 
     }

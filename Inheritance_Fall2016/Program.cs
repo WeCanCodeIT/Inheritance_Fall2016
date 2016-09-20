@@ -11,13 +11,24 @@ namespace Inheritance_Fall2016
         static void Main(string[] args)
         {
             Car celica = new Car();
-
-            celica.Display();
-
             SemiTruck mac = new SemiTruck(24000);
 
-            mac.Display();
-            
+
+            List<Vehicle> vehicleList = new List<Vehicle>();
+
+            vehicleList.Add(celica);
+            vehicleList.Add(mac);
+
+            foreach (Vehicle currentVehicle in vehicleList)
+            {
+                currentVehicle.Display();
+            }
+
+
+            //CheckingAccount check = new CheckingAccount();
+
+            //check.Withdraw();
+            //check.SendMoney();
 
         }
     }

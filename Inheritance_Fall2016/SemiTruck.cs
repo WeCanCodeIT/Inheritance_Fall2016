@@ -18,8 +18,9 @@ namespace Inheritance_Fall2016
             this.maxPayload = maxPayload;
         }
 
-        public void Display()
+        public override void Display()
         {
+            hornVolume = 40.0;
             Console.WriteLine("Seats: {0}, Wheels: {1}, Horn Volume: {2}, Max payload is {3} lbs", Seats, Wheels, hornVolume, maxPayload);
         }
     }
